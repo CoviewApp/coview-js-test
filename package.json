@@ -1,0 +1,14 @@
+{
+    "name": "coview-js-test",
+    "version": "1.0.0",
+    "description": "Complex Node.js project for testing Coview capabilities",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "author": "Coview Team",
+    "license": "ISC"
+}
